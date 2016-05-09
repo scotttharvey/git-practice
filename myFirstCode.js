@@ -3,4 +3,5 @@ var dream = "what";
 var cats = "meow";
 var journal = [];
 
-journal.push(dm11, dream, cats);
+journal.push(dm11);
+journal.push(dream);
